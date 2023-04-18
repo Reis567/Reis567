@@ -3,13 +3,22 @@
 I'm 22 years old, I live in Maricá/RJ, I'm studying Analysis and systems development at [UNIASSELVI](https://uniasselvi.com.br/) and I'm passionate about programming ! 
 Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/).
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=gruvbox)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline_block">
+  
+ ###  > Programming languages I love to work in
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+
+  ###  > Technologies and Tools I use for work
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title = "Flask"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "Photoshop"/></code>
 </div>
   
   ##
@@ -20,4 +29,4 @@ Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/
   <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![Snake animation](https://github.com/Reis567/Reis567/blob/output/github-contribution-grid-snake.svg) 
+
