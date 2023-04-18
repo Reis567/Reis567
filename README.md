@@ -1,4 +1,4 @@
-### Olá , sou Matheus dos Reis
+### Hi there , i'm Matheus dos Reis
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,4 +17,5 @@
   <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+I'm 22 years old, I live in Maricá/RJ, I'm studying Analysis and systems development at [UNIASSELVI](https://uniasselvi.com.br/) and I'm passionate about programming ! 
+Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/).
