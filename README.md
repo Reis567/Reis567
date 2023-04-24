@@ -27,6 +27,7 @@ Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/
    <a href="https://instagram.com/reis567_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusdosreis9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://codepen.io/reis567" target="_blank"><img src="https://img.shields.io/badge/-codepen-%230077B5?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a> 
   
 </div>
 
