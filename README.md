@@ -3,9 +3,10 @@
 I'm 22 years old, I live in Maricá/RJ, I'm studying Analysis and systems development at [UNIASSELVI](https://uniasselvi.com.br/) and I'm passionate about programming ! 
 Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/).
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=gruvbox)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight)
+
 
 <div style="display: inline_block">
   
