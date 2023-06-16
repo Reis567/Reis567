@@ -7,6 +7,8 @@ Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight)
 
+![Reis567's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true)
+
 
 <div style="display: inline_block">
   
