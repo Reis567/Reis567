@@ -5,9 +5,10 @@ Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight)
 
+![Reis567's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight)
 
-![Reis567's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true)
 
 
 <div style="display: inline_block">
@@ -23,6 +24,7 @@ Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" title = "Flask"/></code>
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title = "django"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "Photoshop"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title = "Docker"/></code>
 </div>
   
   ##
