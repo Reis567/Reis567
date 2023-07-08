@@ -4,12 +4,13 @@ I'm 22 years old, I live in Maricá/RJ, I'm studying Analysis and systems develo
 Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/).
 
 ### You can see my resume at [Netlify](https://matheusdosreislp.netlify.app/)
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight)
-
-![Reis567's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight)
+<div style="display: inline-block;">
+  <hr>
+  <a href="https://github.com/thiagofons">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true"/>
+</div>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight"/>
 
 
 
