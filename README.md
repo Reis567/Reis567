@@ -6,7 +6,7 @@ Also check my [Linkedin](https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/
 ### You can see my resume at [Netlify](https://matheusdosreislp.netlify.app/)
 <div style="display: inline-block;">
   <hr>
-  <a href="https://github.com/thiagofons">
+  <a href="https://github.com/Reis567">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true"/>
 </div>
