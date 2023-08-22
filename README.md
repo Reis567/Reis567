@@ -3,7 +3,7 @@
 I'm 22 years old, I live in Maricá/RJ, I'm studying Analysis and systems development at <a href="https://uniasselvi.com.br/" target="_blank">UNIASSELVI</a> and I'm passionate about programming! 
 Also check my <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/" target="_blank">Linkedin</a>.
 
-You can see my resume at <a href="https://matheusdosreislp.netlify.app/" target="_blank">Netlify</a>.
+### You can see my resume at <a href="https://matheusdosreislp.netlify.app/" target="_blank">Netlify</a>.
 
 <div style="display: inline-block;">
   <hr>
