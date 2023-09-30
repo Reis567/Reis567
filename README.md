@@ -8,29 +8,30 @@ Also check my <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/" 
 
 ### You can see my resume at <a href="https://matheusdosreislp.netlify.app/" target="_blank">Netlify</a>.
 
-<div style="display: inline-block;">
-  <hr>
-  <a href="https://github.com/Reis567">
+
+
+
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight"/>
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true"/>
-</div>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight"/>
+
 
 <div style="display: inline_block">
   
- ## Programming languages I love to work in
+ ### Programming languages
 
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+<code><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
 
-  ## Technologies and Tools I use for work
-<code><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
-<code><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code> 
-<code><img width="55px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="Mysql"/></code>
-<code><img width="55px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="django"/></code>
-<code><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop"/></code>
-<code><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker"/></code>
-<code><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git"/></code>
+  ### Technologies and Tools
+<code><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
+<code><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code> 
+<code><img width="70px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="Mysql"/></code>
+<code><img width="70px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="Postgresql"/></code>
+<code><img width="70px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="django"/></code>
+<code><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop"/></code>
+<code><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker"/></code>
+<code><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git"/></code>
 </div>
   
 
