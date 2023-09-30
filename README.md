@@ -11,9 +11,13 @@ Also check my <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/" 
 
 
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight"/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight"/>
+<div style="display: flex; justify-content: space-between;">
+  <img width="280px" height="200em" src="https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight"/>
+  <img width="280px" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true"/>
+<img width="280px" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight&layout=compact"/>
+</div>
+
+
 
 
 <div style="display: inline_block">
