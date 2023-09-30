@@ -4,23 +4,19 @@
   
 </div>
 
-
-
-
-
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Django-E34A86?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Python-191970?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Django-228B22?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/-HTML5-FF4500?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-191970?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
