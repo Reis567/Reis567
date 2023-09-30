@@ -6,10 +6,6 @@
 
 
 
-<div  align="center">
-  
-You can see my resume at <a href="https://matheusdosreislp.netlify.app/" target="_blank">Netlify</a>.
-</div>
 
 
 <h2 align="center">Technology Stack</h2>
@@ -55,13 +51,13 @@ You can see my resume at <a href="https://matheusdosreislp.netlify.app/" target=
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true" />
+  <img width="400px" src = "https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight">
+  <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align = "center">
  
-  <img width="400px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight&layout=compact">
+  <img width="300px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight&layout=compact">
 </p> 
 
 <div  align="center" style="display:flex">
