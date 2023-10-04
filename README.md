@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="mailto: matheusdosreis9@gmail.com">
- <img src="https://img.shields.io/badge/-Reis567-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdosreis9@gmail.com"/>
+ <img src="https://img.shields.io/badge/-matheusdosreis9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdosreis9@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/">
  <img src="https://img.shields.io/badge/-Reis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/"/>
