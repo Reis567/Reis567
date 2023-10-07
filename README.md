@@ -21,20 +21,24 @@
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
-<a href="mailto: matheusdosreis9@gmail.com">
- <img src="https://img.shields.io/badge/-matheusdosreis9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdosreis9@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/">
- <img src="https://img.shields.io/badge/-Reis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/"/>
-</a>
- <a href="https://matheusdosreislp.netlify.app/">
- <img src="https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Netlify&logoColor=white&link=https://matheusdosreislp.netlify.app/"/>
-</a>
-<a href="https://codepen.io/reis567">
- <img src="https://img.shields.io/badge/-Codepen-blue?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/reis567"/>
-</a>
-</p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <div>
+        <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/">
+            <img src="https://img.shields.io/badge/-Reis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/"/>
+        </a>
+        <a href="https://matheusdosreislp.netlify.app/">
+            <img src="https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Netlify&logoColor=white&link=https://matheusdosreislp.netlify.app/"/>
+        </a>
+        <a href="https://codepen.io/reis567">
+            <img src="https://img.shields.io/badge/-Codepen-blue?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/reis567"/>
+        </a>
+    </div>
+    <div>
+        <a href="mailto:matheusdosreis9@gmail.com">
+            <img src="https://img.shields.io/badge/-matheusdosreis9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdosreis9@gmail.com"/>
+        </a>
+    </div>
+</div>
 
 
 
