@@ -64,8 +64,6 @@
 </p> 
 
 <div  align="center" style="display:flex">
-   <img src="https://badges.pufler.dev/visits/ritik307/Reis567"/> 
- <img src="https://badges.pufler.dev/repos/Reis567"/>
  <img src="https://badges.pufler.dev/commits/monthly/Reis567" />
 </div>
 
