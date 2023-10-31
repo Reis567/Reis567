@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-Python-191970?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Django-228B22?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-HTML5-FF4500?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-191970?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
