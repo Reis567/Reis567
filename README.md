@@ -4,12 +4,12 @@
   
 </div>
 
-<h2 align="center">Technology Stack</h2>
+<h2 align="center">My Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/-Django-1c7333?style=flat-square&logo=django"/>
   <img src="https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-next.js-black?style=flat&logo=nextdotjs&logoColor=white"/>
