@@ -7,18 +7,18 @@
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Django-1c7333?style=flat-square&logo=django"/>
-  <img src="https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-next.js-black?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"height="28"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"height="28"/>
+  <img src="https://img.shields.io/badge/-Django-1c7333?style=flat-square&logo=django"height="28"/>
+  <img src="https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs"height="28"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"height="28"/>
+  <img src="https://img.shields.io/badge/-next.js-black?style=flat&logo=nextdotjs&logoColor=white"height="28"/>
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"height="28"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"height="28"/>
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"height="28"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"height="28"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"height="28"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"height="28"/>
 </p>
 
 <h2 align="center">Reach me out on</h2>
