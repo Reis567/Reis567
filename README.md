@@ -4,7 +4,7 @@
   
 </div>
 
-<h2 align="center">My Technology Stack</h2>
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach me out on</h2>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <div>
@@ -50,7 +50,7 @@
   
 
 <h2 align="center">
-  My Github Stats
+  My Stats
 </h2>
  
 <br>
