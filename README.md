@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"height="25"/>
   <img src="https://img.shields.io/badge/-Django-1c7333?style=flat-square&logo=django"height="25"/>
   <img src="https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs"height="25"/>
-<img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"height="25"/>
+<img src ="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white"height="25"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"height="25"/>
   <img src="https://img.shields.io/badge/-next.js-black?style=flat&logo=nextdotjs&logoColor=white"height="25"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"height="25"/>
