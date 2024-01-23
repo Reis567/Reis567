@@ -34,11 +34,11 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <div>
+          <a href="http://matheusdosreis.com/">
+            <img src="https://img.shields.io/badge/-Resume-black?style=flat-square&logo=dependabot&logoColor=white&link=http://matheusdosreis.com/"/>
+        </a>
         <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/">
             <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/"/>
-        </a>
-        <a href="http://matheusdosreis.com/">
-            <img src="https://img.shields.io/badge/-MyResume-black?style=flat-square&logo=dependabot&logoColor=white&link=http://matheusdosreis.com/"/>
         </a>
       <a  href="https://wakatime.com/@Reis567">
         <img src="https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=WakaTime&logoColor=white&link=https://wakatime.com/@Reis567">
