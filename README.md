@@ -35,7 +35,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <div>
           <a href="http://matheusdosreis.com/">
-            <img src="https://img.shields.io/badge/-Resume-black?style=flat-square&logo=dependabot&logoColor=white&link=http://matheusdosreis.com/"/>
+            <img src="https://img.shields.io/badge/-matheusdosreis.com-black?style=flat-square&logo=dependabot&logoColor=white&link=http://matheusdosreis.com/"/>
         </a>
         <a href="https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/">
             <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dos-reis-08b74b1a4/"/>
