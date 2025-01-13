@@ -12,6 +12,7 @@
   <img src ="https://img.shields.io/badge/SpringBoot-0b3d18?style=flat-square&logo=Spring&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Node-0b3d18?style=flat-square&logo=nodedotjs" height="25"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" height="25"/>
+  <img src="https://img.shields.io/badge/-Gin_Web_Framework-black?style=flat-square&logo=go" height="25"/>
   <img src="https://img.shields.io/badge/-next.js-black?style=flat&logo=nextdotjs&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height="25"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" height="25"/>
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go" height="25"/>
 
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/-Gin_Web_Framework-black?style=flat-square&logo=go" height="25"/>
+  
 </p>
 
 
