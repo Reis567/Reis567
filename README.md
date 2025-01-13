@@ -23,12 +23,13 @@
   <!-- Linguagens de Programação -->
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" height="25"/>
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
-
-  <!-- Tecnologias -->
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="25"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=golang" height="25"/>
+  <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go" height="25"/>
 
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/-Gin_Web_Framework-black?style=flat-square&logo=go" height="25"/>
 </p>
+
 
 
 <h2 align="center">Reach me out on</h2>
