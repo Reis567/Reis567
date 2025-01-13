@@ -26,6 +26,7 @@
 
   <!-- Tecnologias -->
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="25"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=golang" height="25"/>
 
 </p>
 
