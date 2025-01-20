@@ -68,14 +68,13 @@
 <br>
 
 <p align = "center">
-  <img width="400px" src = "https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight">
-  <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Reis567&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Reis567&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&include_all_commits=true" alt="Customized Stats">
+  <img width="400px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight&layout=compact">
 </p>
 
 <p align = "center">
- 
-  <img width="300px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Reis567&theme=tokyonight&layout=compact">
-</p> 
+<img src="https://github-profile-trophy.vercel.app/?username=Reis567&theme=tokyonight&row=1&column=6" alt="GitHub Trophies">
+</p>
 
 <div  align="center" style="display:flex">
  <img src="https://badges.pufler.dev/commits/monthly/Reis567" />
